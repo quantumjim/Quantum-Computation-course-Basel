@@ -24,7 +24,28 @@ Some exercises will be in the form of Jupyter notebooks. These can be run locall
 
 The easiest way to to download the exercises is to download the whole repository using [this link](https://github.com/quantumjim/Quantum-information-course-Basel/archive/master.zip).
 
-The TAs will determine the format for the exercise classes.
+The exercises will make up 50% of the final grade. On each of the exercises you can score a value between 0 and 1, where 1 is the best score.
+
+Exercises are due on Tuesdays at 4:15pm and can be handed it as a hand-written piece of paper or via email to the corresponding teaching assistant (TA). If the exercise is a python notebook (.ipynb file), please send the .ipynb file as well as a pdf-version of that file by email.
+
+The TAs of this course are Maria (maria.spethmann@unibas.ch), Bence (bence.hetenyi@unibas.ch), Pierre (pierre.fromholz@unibas.ch) and Even (even.thingstad@unibas.ch).
+
+Here is the provisional list with the due dates for all exercises and the corresponding TAs:
+
+* Exercise 1,  due on March 15, hand in to Maria
+* Exercise 2,  due on March 22, hand in to Bence
+* Exercise 3,  due on March 29, hand in to Pierre
+* Exercise 4,  due on April 05, hand in to Pierre
+* Exercise 5,  due on April 12, hand in to Even
+* Exercise 6,  due on April 19, hand in to Even
+* Exercise 7,  due on April 26, hand in to Bence
+* Exercise 8,  due on May 03, hand in to Maria
+* Exercise 9,  due on May 10, hand in to Maria
+* Exercise 10, due on May 17, hand in to Pierre
+* Exercise 11, due on May 24, hand in to Even
+* Exercise 12, due on May 31, hand in to Bence
+
+The solutions of the exercises are presented at the exercise course a week after. Further, the TAs will give a few hints about the next exercise. If you cannot come to the exercise but would like to know the hints, please send an email to the corresponding TA.
 
 ## Exam/Final Project
 
