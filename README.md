@@ -18,6 +18,21 @@ The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/pr
 
 In-person lectures will be held when possible. However, since the lectures will follow the same format as in 2021, pre-recorded lectures will be available for all who cannot attend for any reason.
 
+* Lecture 1, March 1: The Atoms of Computation and What is Quantum
+* Lecture 2, March 8: Python, Qiskit and Hello Qiskit
+* Lecture 3, March 15: Representing Single Qubit States and Gates
+* Lecture 4, March 22: Multi-qubit States and Circuit Identities
+* Lecture 5, March 29: Fun with Matrices
+* Lecture 6, April 5: Circuits and Universality
+* Lecture 7, April 12: Basic Algorithms and Protocols
+* Lecture 8, April 19: From the Fourier Transform to Shor's Algorithm
+* Lecture 9, April 26: Grover's Algorithm (and why we can't yet run it)
+* Lecture 10, May 3: Introduction to Quantum Error Correction
+* Lecture 11, May 10: Quantum Error Correction: Surface Codes
+* Lecture 12, May 17: Quantum Games
+* Lecture 13, May 24: tbc
+* Lecture 14, May 31: tbc
+
 ## Exercises
 
 Some exercises will be in the form of Jupyter notebooks. These can be run locally by installing [Python 3](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/) and [Qiskit](https://qiskit.org/). They can also be run online without any installation using the [IBM Quantum Lab](https://quantum-computing.ibm.com/lab). When you are on the files menu of the lab, you can click on the 'upload file' icon to upload notebooks.
