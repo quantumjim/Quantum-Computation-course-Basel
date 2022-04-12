@@ -57,8 +57,8 @@ Here is the provisional list with the due dates for all exercises and the corres
 * Exercise 8,  due on May 03, hand in to Bence
 * Exercise 9,  due on May 10, hand in to Maria
 * Exercise 10, due on May 17, hand in to Pierre
-* ~~Exercise 11, due on May 24, hand in to Even
-* ~~Exercise 12, due on May 31, hand in to Bence
+* ~~Exercise 11, due on May 24, hand in to Even~~
+* ~~Exercise 12, due on May 31, hand in to Bence~~
 
 The solutions of the exercises are presented at the exercise course a week after. Further, the TAs will give a few hints about the next exercise. If you cannot come to the exercise but would like to know the hints, please send an email to the corresponding TA.
 
