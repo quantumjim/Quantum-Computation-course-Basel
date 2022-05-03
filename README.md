@@ -2,8 +2,6 @@
 
 This is a [course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/semester-planning?id=264654), given by James Wootton of [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO).
 
-**Regarding the current health situation, keep track of the [university](https://www.unibas.ch/en/News-Events/Coronavirus.html) and [cantonal](https://www.coronavirus.bs.ch/) guidelines. An online alternative will be provided for all lectures. Information will be sent by email.**
-
 The course begins on 22nd Feb 2022 and will have weekly lectures and exercises.
 
 ## Course Content
@@ -55,10 +53,8 @@ Here is the provisional list with the due dates for all exercises and the corres
 * Exercise 6,  due on April 19, hand in to Even
 * Exercise 7,  due on April 26, hand in to Maria
 * Exercise 8,  due on May 03, hand in to Bence
-* Exercise 9,  due on May 10, hand in to Maria
-* Exercise 10, due on May 17, hand in to Pierre
-* ~~Exercise 11, due on May 24, hand in to Even~~
-* ~~Exercise 12, due on May 31, hand in to Bence~~
+* Exercise 9,  due on May 10, hand in to Pierre
+* Exercise 10, due on May 17, hand in to Maria
 
 The solutions of the exercises are presented at the exercise course a week after. Further, the TAs will give a few hints about the next exercise. If you cannot come to the exercise but would like to know the hints, please send an email to the corresponding TA.
 
