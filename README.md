@@ -66,7 +66,7 @@ The main aim of this is for you to demonstrate understanding of the topics in th
 
 Below are the different kinds of project you can choose from. Examples of existing work are given to give you and idea of what you can produce.
 
-You can start whenever you like. The deadline is 9th June. To submit, send it to me by email.
+You can start whenever you like. The deadline is 13th June. To submit, send it to me by email.
 
 
 ### Write an explanation of a topic of your choice
