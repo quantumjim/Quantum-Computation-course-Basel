@@ -27,9 +27,7 @@ In-person lectures will be held when possible. However, since the lectures will 
 * Lecture 9, April 26: Grover's Algorithm (and why we can't yet run it)
 * Lecture 10, May 3: Introduction to Quantum Error Correction
 * Lecture 11, May 10: Quantum Error Correction: Surface Codes
-* Lecture 12, May 17: Quantum Games
-* Lecture 13, May 24: tbc
-* Lecture 14, May 31: tbc
+* Lectures 12-15, May 17-: Various lectures on near-term applications
 
 ## Exercises
 
@@ -68,6 +66,11 @@ Below are the different kinds of project you can choose from. Examples of existi
 
 You can start whenever you like. The deadline is 13th June. To submit, send it to me by email.
 
+### Take part in the IBM Quantum Challenge
+
+The IBM Quantum Challenge is an online event running from May 23 to May 27. You can find more information (and the event itself) at the [IBM Quantum Challenge website](https://challenges.quantum-computing.ibm.com/spring-2022). However, full details will only be made available once the challenge begins.
+
+If you use this as your final project, submit your working from the challenge. Ideally via Jupyter notebooks.
 
 ### Write an explanation of a topic of your choice
 
