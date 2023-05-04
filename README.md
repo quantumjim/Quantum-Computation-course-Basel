@@ -2,7 +2,7 @@
 
 This is a [course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/en/semester-planning?id=264654), given by James Wootton of [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO).
 
-The course begins on 22nd Feb 2022 and will have weekly lectures and exercises.
+This repository reflects the version of the course given in 2020, 2021 and 2022. The lectures are all on [YouTube](https://www.youtube.com/playlist?list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-) for you to view at any time.
 
 ## Course Content
 
@@ -10,24 +10,25 @@ Quantum information theory is the basis of multiple emerging technologies, such 
 
 ## Course Text
 
-The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/preface.html).
+The course will be based on the [Qiskit textbook]([https://qiskit.org/textbook/preface.html](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/preface.ipynb)).
 
 ## Lectures
 
 In-person lectures will be held when possible. However, since the lectures will follow the same format as in 2021, pre-recorded lectures will be available for all who cannot attend for any reason.
 
-* Lecture 1, March 1: The Atoms of Computation and What is Quantum
-* Lecture 2, March 8: Python, Qiskit and Hello Qiskit
-* Lecture 3, March 15: Representing Single Qubit States and Gates
-* Lecture 4, March 22: Multi-qubit States and Circuit Identities
-* Lecture 5, March 29: Fun with Matrices
-* Lecture 6, April 5: Circuits and Universality
-* Lecture 7, April 12: Basic Algorithms and Protocols
-* Lecture 8, April 19: From the Fourier Transform to Shor's Algorithm
-* Lecture 9, April 26: Grover's Algorithm (and why we can't yet run it)
-* Lecture 10, May 3: Introduction to Quantum Error Correction
-* Lecture 11, May 10: Quantum Error Correction: Surface Codes
-* Lectures 12-15, May 17-: Various lectures on near-term applications
+* Lecture 1: The Atoms of Computation and What is Quantum
+* Lecture 2: Python, Qiskit and Hello Qiskit
+* Lecture 3: Representing Single Qubit States and Gates
+* Lecture 7: Basic Algorithms and Protocols
+* Lecture 4: [Multi-qubit States and Circuit Identities](https://youtu.be/pzkeypXaQ-Q)
+* Lecture 5: Fun with Matrices
+* Lecture 6: Circuits and Universality
+* Lecture 7: Basic Algorithms and Protocols
+* Lecture 8: From the Fourier Transform to Shor's Algorithm
+* Lecture 9: Grover's Algorithm (and why we can't yet run it)
+* Lecture 10: Introduction to Quantum Error Correction
+* Lecture 11: Quantum Error Correction: Surface Codes
+* Lectures 12-15: Various lectures on near-term applications
 
 ## Exercises
 
@@ -35,42 +36,13 @@ Some exercises will be in the form of Jupyter notebooks. These can be run locall
 
 The easiest way to to download the exercises is to download the whole repository using [this link](https://github.com/quantumjim/Quantum-information-course-Basel/archive/master.zip).
 
-The exercises will make up 50% of the final grade. On each of the exercises you can score a value between 0 and 1, where 1 is the best score.
-
-Exercises are due on Tuesdays at 4:15pm and can be handed it as a hand-written piece of paper or via email to the corresponding teaching assistant (TA). If the exercise is a python notebook (.ipynb file), please send the .ipynb file as well as a pdf-version of that file by email.
-
-The TAs of this course are Maria (maria.spethmann@unibas.ch), Bence (bence.hetenyi@unibas.ch), Pierre (pierre.fromholz@unibas.ch) and Even (even.thingstad@unibas.ch).
-
-Here is the provisional list with the due dates for all exercises and the corresponding TAs:
-
-* Exercise 1,  due on March 15, hand in to Maria
-* Exercise 2,  due on March 22, hand in to Bence
-* Exercise 3,  due on March 29, hand in to Pierre
-* Exercise 4,  due on April 05, hand in to Pierre
-* Exercise 5,  due on April 12, hand in to Even
-* Exercise 6,  due on April 19, hand in to Even
-* Exercise 7,  due on April 26, hand in to Maria
-* Exercise 8,  due on May 03, hand in to Bence
-* Exercise 9,  due on May 10, hand in to Pierre
-* Exercise 10, due on May 17, hand in to Maria
-
-The solutions of the exercises are presented at the exercise course a week after. Further, the TAs will give a few hints about the next exercise. If you cannot come to the exercise but would like to know the hints, please send an email to the corresponding TA.
-
 ## Exam/Final Project
 
-Like in 2020 and 2021, we'll have a final project instead of a standard exam.
+As in previous years, we'll have a final project instead of a standard exam.
 
 The main aim of this is for you to demonstrate understanding of the topics in the course. The format is fairly free to allow you to do this in a way that suits you best. Collaboration will be fine. But everyone needs something unique to submit.
 
 Below are the different kinds of project you can choose from. Examples of existing work are given to give you and idea of what you can produce.
-
-You can start whenever you like. The deadline is 13th June. To submit, send it to me by email.
-
-### Take part in the IBM Quantum Challenge
-
-The IBM Quantum Challenge is an online event running from May 23 to May 27. You can find more information (and the event itself) at the [IBM Quantum Challenge website](https://challenges.quantum-computing.ibm.com/spring-2022). However, full details will only be made available once the challenge begins.
-
-If you use this as your final project, submit your working from the challenge. Ideally via Jupyter notebooks.
 
 ### Write an explanation of a topic of your choice
 
