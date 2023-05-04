@@ -10,7 +10,7 @@ Quantum information theory is the basis of multiple emerging technologies, such 
 
 ## Course Text
 
-The course will be based on the [Qiskit textbook]([https://qiskit.org/textbook/preface.html](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/preface.ipynb).
+The course will be based on the [Qiskit textbook](https://qiskit.org/textbook/preface.html](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/preface.ipynb).
 
 ## Lectures
 
