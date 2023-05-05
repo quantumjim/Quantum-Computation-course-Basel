@@ -25,9 +25,8 @@ Below are links to the lecture videos. For links to the corresponding sections o
 * Lecture 7: Basic Algorithms and Protocols
 * Lecture 8: From the Fourier Transform to Shor's Algorithm
 * Lecture 9: Grover's Algorithm (and why we can't yet run it)
-* Lecture 10: Introduction to Quantum Error Correction
-* Lecture 11: Quantum Error Correction: Surface Codes
-* Lectures 12-15: Various lectures on near-term applications
+* Lecture 10: [Introduction to Quantum Error Correction](https://youtu.be/AuDfq7j_W7E)
+* Lecture 11: [Quantum Error Correction: Surface Codes](https://youtu.be/IdZkxX-Qank)
 
 ## Exercises
 
