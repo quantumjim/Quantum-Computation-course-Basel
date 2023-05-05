@@ -10,16 +10,15 @@ Quantum information theory is the basis of multiple emerging technologies, such 
 
 ## Course Text
 
-The course will be based on the [Qiskit textbook](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/preface.ipynb).
+The course will be based on the [Qiskit textbook](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/preface.ipynb). Note that this link is to the Jupyter notebook source files of the textbook. The original textbook can be found [here](https://qiskit.org/learn/).
 
 ## Lectures
 
-In-person lectures will be held when possible. However, since the lectures will follow the same format as in 2021, pre-recorded lectures will be available for all who cannot attend for any reason.
+Below are links to the lecture videos. For links to the corresponding sections of the textbook, see the video description.
 
-* Lecture 1: The Atoms of Computation and What is Quantum
-* Lecture 2: Python, Qiskit and Hello Qiskit
-* Lecture 3: Representing Single Qubit States and Gates
-* Lecture 7: Basic Algorithms and Protocols
+* Lecture 1: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc)
+* Lecture 2: [Python, Qiskit and Hello Qiskit](https://youtu.be/mMJtw-vFXC4)
+* Lecture 3: [Representing Single Qubit States and Gates](https://youtu.be/GdRt8vO9xY8)
 * Lecture 4: [Multi-qubit States and Circuit Identities](https://youtu.be/pzkeypXaQ-Q)
 * Lecture 5: Fun with Matrices
 * Lecture 6: Circuits and Universality
