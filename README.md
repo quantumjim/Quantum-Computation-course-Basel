@@ -24,12 +24,19 @@ Most of the course will be done as a 'flipped classroom'. Lecture videos will be
 Below are links to the lecture videos for the lectures so far. For links to the corresponding sections of the textbook, see the video description.
 
 * Lecture 1: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc) and [Python, Qiskit and Hello Qiskit](https://youtu.be/mMJtw-vFXC4)
-
+    - In-class exercise: [Quantum Logic Gates](exercises_2022/Exercise2.ipynb)
+    - Extra lecture: [The Unique Properties of Qubits](https://github.com/NCCR-SPIN/qiskit-textbook/blob/892f5dc28b27ee43a3f26f2a7d9f7d376de4e6d8/content/ch-states/old-unique-properties-qubits.ipynb)
 
 
 ## Exercises
 
-Take home exercises will be given every few weeks. More information will follow when the first set is given.
+### In-Class Exercises
+
+Exercises covered in class will be drawn from the big pile of all the exercises used in previous versions of this course.
+
+### Take-Home Exercises
+
+Take-home exercises will be given every few weeks. More information will follow when the first set is given.
 
 
 ## Exam/Final Project

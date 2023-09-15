@@ -1,0 +1,27 @@
+5 a
+
+From lecture: We are secure as long as H(K) >= H(M)
+
+A collection of N messages m_j, each of n characters, is equivalent to one message of N*n characters
+
+M=[]
+for j in range(N):
+   M.append( m[j] )
+
+This can have a Shannon entropy of H(M) = O(1) (some finite value).
+
+If the same key, k, is used for each m_j, then the key for the meta message is
+
+K = k * N
+
+The repetition does not increase the information content, so K will have the same Kolmogorov complexity as k. But since the Shannon entropy averages this over all characters
+
+H(K) = H(k)/N = O(1/N)
+
+The fact that H(M) can have a finite value conflicts with the inevitable decay of H(K), ensuring that the security condition cannot hold in general for arbitrarily large N.
+
+
+
+5 b
+
+Create a frequency table for the first character in each message. Whichever character is most common is most likely the encoding of E, since E is the most common letter in English text. The next most common is most likely T, and so on. Do the same for all characters. Decode all messages accordingly. Find successes and failures and use them to improve the decoding until all messages become sensible English text. The decoding is the key (or the inverse of it, at least).
