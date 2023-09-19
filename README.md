@@ -1,4 +1,4 @@
-# Quantum Information
+# Quantum Computation and Error Correction
 
 This is a [course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/de/home?id=278317), given by James Wootton of [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO).
 
