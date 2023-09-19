@@ -25,7 +25,7 @@ Below are links to the lecture videos for the lectures so far. For links to the 
 
 * Lecture 1: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc) and [Python, Qiskit and Hello Qiskit](https://youtu.be/mMJtw-vFXC4)
     - In-class exercise: [Quantum Logic Gates](exercises_2022/Exercise2.ipynb)
-    - Extra lecture: [The Unique Properties of Qubits](https://github.com/NCCR-SPIN/qiskit-textbook/blob/892f5dc28b27ee43a3f26f2a7d9f7d376de4e6d8/content/ch-states/old-unique-properties-qubits.ipynb)
+    - Extra lecture: [The Unique Properties of Qubits](extra_resources/unique-properties-qubits.ipynb)
 
 
 ## Exercises
