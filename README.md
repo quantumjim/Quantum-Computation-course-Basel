@@ -19,13 +19,16 @@ The course will be based on the [Qiskit textbook](https://github.com/NCCR-SPIN/q
 
 ## Lectures
 
-Most of the course will be done as a 'flipped classroom'. Lecture videos will be provided 1 week early. In-person sessions take place from 14:00-16:00 on Tuesdays. This will be used for questions from students, working together through exercises, and covering additional topics. 
+Most of the course will be done as a 'flipped classroom'. Lecture videos will be provided 1 week early. In-person sessions take place from 14:15-16:00 on Tuesdays. This will be used for questions from students, working together through exercises, and covering additional topics. 
 
 Below are links to the lecture videos for the lectures so far. For links to the corresponding sections of the textbook, see the video description.
 
 * Lecture 1: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc) and [Python, Qiskit and Hello Qiskit](https://youtu.be/mMJtw-vFXC4)
     - In-class exercise: [Quantum Logic Gates](exercises_2022/Exercise2.ipynb)
     - Extra lecture: [The Unique Properties of Qubits](extra_resources/unique-properties-qubits.ipynb)
+ 
+* Lecture 2: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
+    - In-class exercises: [Playing with Paulis](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise3.ipynb), [More playing with Paulis](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise4.ipynb)
 
 
 ## Exercises
@@ -36,8 +39,7 @@ Exercises covered in class will be drawn from the big pile of all the exercises 
 
 ### Take-Home Exercises
 
-Take-home exercises will be given every few weeks. More information will follow when the first set is given.
-
+Take-home exercises set on 17th Oct, 7th Nov and 28th Nov. There will be hints sessions at 16:15 on those dates. Solutions will be presented at 16:15 on 31st Oct, 21st Nov and 12th Dec.
 
 ## Exam/Final Project
 
