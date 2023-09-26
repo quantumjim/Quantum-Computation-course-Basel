@@ -30,6 +30,7 @@ Below are links to the lecture videos for the lectures so far. For links to the 
 * Lecture 2: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
     - In-class exercises: [Playing with Paulis](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise3.ipynb), [More playing with Paulis](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise4.ipynb)
 
+* Lecture 3: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
 
 ## Exercises
 
