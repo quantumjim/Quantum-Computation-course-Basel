@@ -31,6 +31,9 @@ Below are links to the lecture videos for the lectures so far. For links to the 
     - In-class exercises: [Playing with Paulis](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise3.ipynb), [More playing with Paulis](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise4.ipynb)
 
 * Lecture 3: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
+     - Extra lecture: [Density matrices](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/2_The_Qubit.pdf), [partial trace](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/3_Quantum_Information.pdf) and [Schmidt decomposition](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/6_Quantum_Correlations_part_1.pdf).
+
+* Lecture 4: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
 
 ## Exercises
 
