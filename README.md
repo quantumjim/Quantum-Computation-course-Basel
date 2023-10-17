@@ -45,6 +45,9 @@ Exercises covered in class will be drawn from the big pile of all the exercises 
 
 Take-home exercises set on 17th Oct, 7th Nov and 28th Nov. There will be hints sessions at 16:15 on those dates. Solutions will be presented at 16:15 on 31st Oct, 21st Nov and 12th Dec.
 
+* [Exercise sheet 1](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises/Exercise1.ipynb): Set 17th Oct. Hint session and hand-in instructions at 16:15.
+
+
 ## Exam/Final Project
 
 More information regarding the final evaluation will follow.
