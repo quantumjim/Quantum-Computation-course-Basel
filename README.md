@@ -35,6 +35,12 @@ Below are links to the lecture videos for the lectures so far. For links to the 
 
 * Lecture 4: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
 
+* Lecture 5: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek)
+    - Extra lecture: [Proof that Clifford + t is universal](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/extra_resources/Lecture%206%20(2013%20version).pdf)
+    - In-class exercise: [Real quantum computing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise7.ipynb)
+ 
+* Lecture 6: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
+
 ## Exercises
 
 ### In-Class Exercises
@@ -48,6 +54,6 @@ Take-home exercises set on 17th Oct, 7th Nov and 28th Nov. There will be hints s
 * [Exercise sheet 1](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises/Exercise1.ipynb): Set 17th Oct. Hint session and hand-in instructions at 16:15.
 
 
-## Exam/Final Project
+## Final Project
 
 More information regarding the final evaluation will follow.
