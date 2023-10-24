@@ -40,6 +40,10 @@ Below are links to the lecture videos for the lectures so far. For links to the 
     - In-class exercise: [Real quantum computing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise7.ipynb)
  
 * Lecture 6: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
+    - Extra lecture: [Relative Entropy and Entanglement Sharing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/7_Quantum_Correlations_part_2.pdf)
+    - In-class exercise: [Trotters and Garbage](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise6.ipynb)
+ 
+* Lecture 7: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
 
 ## Exercises
 
