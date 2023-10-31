@@ -44,6 +44,10 @@ Below are links to the lecture videos for the lectures so far. For links to the 
     - In-class exercise: [Trotters and Garbage](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise6.ipynb)
  
 * Lecture 7: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
+    - In-class exercise: [The order finding operator](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2019/Exercise8.pdf)
+    - Extra lecture [Quantum key distribution](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/ch-algorithms/quantum-key-distribution.ipynb)
+ 
+* Lecture 8: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
 
 ## Exercises
 
