@@ -48,6 +48,9 @@ Below are links to the lecture videos for the lectures so far. For links to the 
     - Extra lecture [Quantum key distribution](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/ch-algorithms/quantum-key-distribution.ipynb)
  
 * Lecture 8: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
+    - Extra lecture: [Quantum noise](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/8_Quantum_Noise.pdf) and [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
+
+* Lecture 9: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10)
 
 ## Exercises
 
@@ -61,7 +64,8 @@ Take-home exercises set on 17th Oct, 7th Nov and 28th Nov. There will be hints s
 
 * [Exercise sheet 1](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises/Exercise1.ipynb): Set 17th Oct. Hint session and hand-in instructions at 16:15.
 
+* [Exercise sheet 2](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises/Exercise2.ipynb): Set 7th Nov. Hint session and hand-in instructions at 16:15 (on Zoom).
 
 ## Final Project
 
-More information regarding the final evaluation will follow.
+More information regarding the final project can be found [here](https://github.com/quantumjim/Quantum-Computation-course-Basel/tree/2022#examfinal-project).
