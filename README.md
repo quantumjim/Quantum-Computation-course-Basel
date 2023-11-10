@@ -66,6 +66,10 @@ Take-home exercises set on 17th Oct, 7th Nov and 28th Nov. There will be hints s
 
 * [Exercise sheet 2](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises/Exercise2.ipynb): Set 7th Nov. Hint session and hand-in instructions at 16:15 (on Zoom).
 
+**Note: These exercises form 50% of your final grade**
+
 ## Final Project
 
 More information regarding the final project can be found [here](https://github.com/quantumjim/Quantum-Computation-course-Basel/tree/2022#examfinal-project).
+
+**Note: This project forms 50% of your final grade**
