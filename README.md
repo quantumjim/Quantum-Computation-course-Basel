@@ -1,6 +1,6 @@
 # Quantum Computation and Error Correction
 
-This is a [course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/de/home?id=278317), given by James Wootton of [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO).
+This is a [course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/de/home?id=278317), given by [Dr James Wootton of IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-JWO).
 
 This repository reflects the version of the course given in 2023. For the 2020, 2021 and 2022 version see [here](https://github.com/quantumjim/Quantum-Computation-course-Basel/tree/2022).
 
@@ -24,33 +24,38 @@ Most of the course will be done as a 'flipped classroom'. Lecture videos will be
 Below are links to the lecture videos for the lectures so far. For links to the corresponding sections of the textbook, see the video description.
 
 * Lecture 1: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc) and [Python, Qiskit and Hello Qiskit](https://youtu.be/mMJtw-vFXC4)
+    - In-class lecture: [The Unique Properties of Qubits](extra_resources/unique-properties-qubits.ipynb)
     - In-class exercise: [Quantum Logic Gates](exercises_2022/Exercise2.ipynb)
-    - Extra lecture: [The Unique Properties of Qubits](extra_resources/unique-properties-qubits.ipynb)
+
  
 * Lecture 2: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
     - In-class exercises: [Playing with Paulis](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise3.ipynb), [More playing with Paulis](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise4.ipynb)
 
 * Lecture 3: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
-     - Extra lecture: [Density matrices](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/2_The_Qubit.pdf), [partial trace](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/3_Quantum_Information.pdf) and [Schmidt decomposition](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/6_Quantum_Correlations_part_1.pdf).
+     - In-class lecture: [Density matrices](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/2_The_Qubit.pdf), [partial trace](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/3_Quantum_Information.pdf) and [Schmidt decomposition](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/6_Quantum_Correlations_part_1.pdf).
 
 * Lecture 4: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
 
 * Lecture 5: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek)
-    - Extra lecture: [Proof that Clifford + t is universal](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/extra_resources/Lecture%206%20(2013%20version).pdf)
+    - In-class lecture: [Proof that Clifford + t is universal](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/extra_resources/Lecture%206%20(2013%20version).pdf)
     - In-class exercise: [Real quantum computing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise7.ipynb)
  
 * Lecture 6: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
-    - Extra lecture: [Relative Entropy and Entanglement Sharing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/7_Quantum_Correlations_part_2.pdf)
+    - In-class lecture: [Relative Entropy and Entanglement Sharing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/7_Quantum_Correlations_part_2.pdf)
     - In-class exercise: [Trotters and Garbage](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2022/Exercise6.ipynb)
  
 * Lecture 7: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
+    - In-class lecture [Quantum key distribution](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/ch-algorithms/quantum-key-distribution.ipynb)
     - In-class exercise: [The order finding operator](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2019/Exercise8.pdf)
-    - Extra lecture [Quantum key distribution](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/ch-algorithms/quantum-key-distribution.ipynb)
  
 * Lecture 8: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
-    - Extra lecture: [Quantum noise](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/8_Quantum_Noise.pdf) and [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
+    - In-class lecture: [Quantum noise](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/8_Quantum_Noise.pdf) and [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
 
 * Lecture 9: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10)
+    - In-class lecture: [Decoding 1: Running Circuits and Interpreting Outputs](https://github.com/quantumjim/qec_lectures/blob/main/lecture-1.ipynb)
+ 
+* Lecture 10: [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
+
 
 ## Exercises
 
