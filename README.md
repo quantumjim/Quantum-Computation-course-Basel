@@ -55,7 +55,7 @@ Below are links to the lecture videos for the lectures so far. For links to the 
     - In-class lecture: [Decoding 1: Running Circuits and Interpreting Outputs](https://github.com/quantumjim/qec_lectures/blob/main/lecture-1.ipynb)
  
 * Lecture 10: [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
-    - In-class lecture: [Decoding 2: # Correcting Errors](https://github.com/quantumjim/qec_lectures/blob/main/lecture-2.ipynb)
+    - In-class lecture: [Decoding 2: Correcting Errors](https://github.com/quantumjim/qec_lectures/blob/main/lecture-2.ipynb)
 
 
 ## Exercises
