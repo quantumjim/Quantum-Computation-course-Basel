@@ -57,7 +57,7 @@ Below are links to the lecture videos for the lectures so far. For links to the 
 * Lecture 10: [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
     - In-class lecture: [Decoding 2: Correcting Errors](https://github.com/quantumjim/qec_lectures/blob/main/lecture-2.ipynb)
 
-Lecture 11: *No video lecture*
+* Lecture 11: *No video lecture*
     - In-class lecture: [Toric code](https://en.wikipedia.org/wiki/Toric_code) and [LDPC codes](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/extra_resources/LDPC-codes.pdf)
     - In-class exercises: [Shor code](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2019/Exercise7.pdf)
 
