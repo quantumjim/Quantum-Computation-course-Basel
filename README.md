@@ -81,6 +81,10 @@ Take-home exercises set on 17th Oct, 7th Nov and 28th Nov. There will be hints s
 
 ## Final Project
 
+You have until 15th January to hand-in your final projects (to me, by email). That gives you around 3 weeks after the hand-in of your final set of exercises (not including the Christmas break). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
+
+You have until 21st Decemeber to email me and ask for feedback on project ideas, and to give guidelines for what would be expected for them.
+
 More information regarding the final project can be found [here](https://github.com/quantumjim/Quantum-Computation-course-Basel/tree/2022#examfinal-project).
 
 **Note: This project forms 50% of your final grade**
