@@ -60,6 +60,9 @@ Below are links to the lecture videos for the lectures so far. For links to the 
 * Lecture 11: *No video lecture*
     - In-class lecture: [Toric code](https://en.wikipedia.org/wiki/Toric_code) and [LDPC codes](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/extra_resources/LDPC-codes.pdf)
     - In-class exercises: [Shor code](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2019/Exercise7.pdf)
+ 
+* Lecture 12: *No video lecture*
+    - In-class lecture: [Decoding 3: Programming and Using a Matching Decoder](https://github.com/quantumjim/qec_lectures/blob/main/lecture-1.ipynb)
 
 ## Exercises
 
