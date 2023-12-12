@@ -62,7 +62,10 @@ Below are links to the lecture videos for the lectures so far. For links to the 
     - In-class exercises: [Shor code](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/exercises_2019/Exercise7.pdf)
  
 * Lecture 12: *No video lecture*
-    - In-class lecture: [Decoding 3: Programming and Using a Matching Decoder](https://github.com/quantumjim/qec_lectures/blob/main/lecture-1.ipynb)
+    - In-class lecture: [Decoding 3: Programming and Using a Matching Decoder](https://github.com/quantumjim/qec_lectures/blob/main/lecture-3.ipynb)
+
+* Lecture 13: *No video lecture*
+    - In-class lecture: [Decoding 4: Programming HDRG Decoders](https://github.com/quantumjim/qec_lectures/blob/main/lecture-4.ipynb)
 
 ## Exercises
 
