@@ -89,6 +89,8 @@ Take-home exercises set on 17th Oct, 7th Nov and 28th Nov. There will be hints s
 
 As in previous years, we'll have a final project instead of a standard exam. The main aim of this is for you to demonstrate understanding of the topics in the course. The format is fairly free to allow you to do this in a way that suits you best. Collaboration will be fine. But everyone needs something unique to submit.
 
+**Note: This project forms 50% of your final grade**
+
 ### Important dates
 
 You have until 15th January to hand-in your final projects (to me, by email). That gives you around 3 weeks after the hand-in of your final set of exercises (not including the Christmas break). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
@@ -151,5 +153,3 @@ You can come up with your own method for benchmarking, or reproduce something th
     - Explain the two approaches and discuss their similarties and differences.
     - Propose a new 'Quantum Awesomeness', that uses some ideas from the layer fidelity.
     - Produce and explain some of the basic circuits required for your idea.
-
-**Note: This project forms 50% of your final grade**
