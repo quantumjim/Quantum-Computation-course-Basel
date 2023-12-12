@@ -97,7 +97,7 @@ You have until 21st December to email me and ask for feedback on project ideas, 
 
 ### Project ideas
 
-Below are examples of the different kinds of project you can choose from. Examples of existing work are given to give you and idea of what you can produce.
+Below are examples of the different kinds of project you can choose from. Examples of existing work are given to give you and idea of what you can produce. A list of specific projects that you can do (for those of you that don't want to come up with your own) can be found at the end.
 
 #### Write an explanation of a topic of your choice
 
@@ -124,7 +124,7 @@ Basically, reasons why we might make a quantum game are:
 ##### Examples
 
 * [Hello Qiskit](https://qiskit.org/textbook/ch-ex/hello-qiskit.html): a game that teaches quantum computing.
-* [Quantum Awesomeness](https://github.com/Qiskit/qiskit-community-tutorials/blob/master/games/quantum_awesomeness.ipynb): a game that gives insight into real devices (and [featured in the NZZ](https://www.nzz.ch/wissenschaft/games-with-james-ld.1367435)).
+* [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers/blob/master/README.md): a game that gives insight into real devices (and [featured in the NZZ](https://www.nzz.ch/wissenschaft/games-with-james-ld.1367435)).
 * [QPong](https://www.youtube.com/watch?v=a1NZC5rqQD8): A game that implements the core game mechanic with a (simulation of).
 * [Q Avrai](https://github.com/quantumjim/Q_Avrai/blob/master/papers/CoG/main.pdf): using quantum computing for map generation.
 
@@ -140,5 +140,16 @@ You can come up with your own method for benchmarking, or reproduce something th
 * [Quantum Awesomeness](https://github.com/Qiskit/qiskit-community-tutorials/blob/master/games/quantum_awesomeness.ipynb): a game that gives insight into real devices (and [featured in the NZZ](https://www.nzz.ch/wissenschaft/games-with-james-ld.1367435)).
 * [Decoherence of entangled states](https://arxiv.org/abs/1712.07080): A paper looking at decoherence in GHZ states.
 * [Repetition Codes](https://arxiv.org/abs/2004.11037): This uses Qiskit's old `topological_codes` module, now available in Qiskit QEC.
+
+#### Specific project ideas
+
+* Write a decoder for the qudit or non-Abelian decoding problems shown in [Decoding 4: Programming HDRG Decoders](https://github.com/quantumjim/qec_lectures/blob/main/lecture-4.ipynb).
+    - Explain your method
+    - Provide your code
+    - Provide threshold graphs for different values of `k`
+* A recent scheme for benchmarking known as the [layer fidelity](https://arxiv.org/abs/2311.05933) has some similarities to my old game-based benchmark, [Quantum Awesomeness](https://github.com/decodoku/A_Game_to_Benchmark_Quantum_Computers/blob/master/README.md).
+    - Explain the two approaches and discuss their similarties and differences.
+    - Propose a new 'Quantum Awesomeness', that uses some ideas from the layer fidelity.
+    - Produce and explain some of the basic circuits required for your idea.
 
 **Note: This project forms 50% of your final grade**
