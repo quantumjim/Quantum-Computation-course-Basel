@@ -4,17 +4,17 @@ This is a [course at the University of Basel](https://vorlesungsverzeichnis.unib
 
 ## Course Content
 
-This course is an introduction to quantum computation, suitable for students with a physics, nanoscience, computer science or mathematical background. Theologians and philosophers have also been known to try it out!
+This course is an introduction to quantum computation, with a focus in the last third on quantum error correction. It is suitable for students with a physics, nanoscience, computer science or mathematical background. Theologians and philosophers have also been known to try it out!
 
+The language of instruction is English.
 
 ## Course Text
 
 The course will be based on the [Qiskit textbook](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/preface.ipynb). Links to specific pages will be given for each lecture. Note that this textbook is no longer maintained, and so does not reflect the most recent version of Qiskit.
 
-
 ## Lectures
 
-The course consists of the following set of lectures. We will aim to do slightly more than one per week. All lectures will be given in person, but [video versions](https://www.youtube.com/playlist?list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-) of many lectures are available also. Links to the pertinent parts of the Qiskit textbook can be found in the video descriptions.
+The course consists of the following set of lectures. We will aim to do slightly more than one per week. All lectures will be given in person (14:15, [Seminarzimmer 4.1](https://vorlesungsverzeichnis.unibas.ch/ajax/room.cfm?id=8210)), but [video versions](https://www.youtube.com/playlist?list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-) of many lectures are available also. For those, links to the pertinent parts of the Qiskit textbook can be found in the video descriptions. **Let me know if any link doesn't work!**
 
 * Lecture 1: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc)
 * Lecture 3: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
