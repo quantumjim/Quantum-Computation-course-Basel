@@ -34,7 +34,7 @@ The course consists of the following set of lectures. We will aim to do slightly
 
 ## Extra Topics
 
-For some lectures there is also some extra content that we will cover if there is time. Or you can just check it out for fun!
+For some lectures there is also some extra content. We'll cover it if there is time. Otherwise, you can expect to see it in the exercises.
 
 * Lecture 1: [The Unique Properties of Qubits](extra_resources/unique-properties-qubits.ipynb)
 * Lecture 2: [Python, Qiskit and Hello Qiskit](https://youtu.be/mMJtw-vFXC4)
@@ -49,7 +49,7 @@ For some lectures there is also some extra content that we will cover if there i
 
 ### Take-Home Exercises
 
-Three sets of take-home exercises set throughout the course. There will be hints sessions at 16:15 on the dates that these are set. Solutions will be presented after the exercises have been graded.
+Four sets of take-home exercises set throughout the course. There will be hints sessions at 16:15 on the dates that these are set. Solutions will be presented after the exercises have been graded.
 
 **Note: These exercises form 50% of your final grade**
 
