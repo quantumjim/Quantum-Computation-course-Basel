@@ -16,21 +16,21 @@ The course will be based on the [Qiskit textbook](https://github.com/NCCR-SPIN/q
 
 The course consists of the following set of lectures. We will aim to do slightly more than one per week. All lectures will be given in person (14:15, [Seminarzimmer 4.1](https://vorlesungsverzeichnis.unibas.ch/ajax/room.cfm?id=8210)), but [video versions](https://www.youtube.com/playlist?list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-) of many lectures are available also. For those, links to the pertinent parts of the Qiskit textbook can be found in the video descriptions. **Let me know if any link doesn't work!**
 
-* Lecture 1: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc)
-* Lecture 3: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
-* Lecture 4: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
-* Lecture 5: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
-* Lecture 6: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek)
-* Lecture 7: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
-* Lecture 8: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
-* Lecture 9: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
-* Lecture 10: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10)
-* Lecture 11: [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
-* Lecture 12: Introduction to QEC 3: LDPC codes
-* Lecture 13: [Decoding 1: Running Circuits and Interpreting Outputs](https://github.com/quantumjim/qec_lectures/blob/main/lecture-1.ipynb)
-* Lecture 14: [Decoding 2: Correcting Errors](https://github.com/quantumjim/qec_lectures/blob/main/lecture-2.ipynb)
-* Lecture 15: [Decoding 3: Programming and Using a Matching Decoder](https://github.com/quantumjim/qec_lectures/blob/main/lecture-3.ipynb)
-* Lecture 16: [Decoding 4: Programming HDRG Decoders](https://github.com/quantumjim/qec_lectures/blob/main/lecture-4.ipynb)
+* 10/09: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc)
+* 17/09: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
+* 24/09: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
+* 01/10: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
+* 08/10: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek)
+* 15/10: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
+* 22/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
+* 29/10: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
+* [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10)
+* [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
+* Introduction to QEC 3: LDPC codes
+* [Decoding 1: Running Circuits and Interpreting Outputs](https://github.com/quantumjim/qec_lectures/blob/main/lecture-1.ipynb)
+* [Decoding 2: Correcting Errors](https://github.com/quantumjim/qec_lectures/blob/main/lecture-2.ipynb)
+* [Decoding 3: Programming and Using a Matching Decoder](https://github.com/quantumjim/qec_lectures/blob/main/lecture-3.ipynb)
+* [Decoding 4: Programming HDRG Decoders](https://github.com/quantumjim/qec_lectures/blob/main/lecture-4.ipynb)
 
 ## Extra Topics
 
