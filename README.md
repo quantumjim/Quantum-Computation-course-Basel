@@ -51,8 +51,10 @@ For some lectures there is also some extra content. We'll cover it if there is t
 
 Four sets of take-home exercises set throughout the course. There will be hints sessions at 16:15 on the dates that these are set. Solutions will be presented after the exercises have been graded.
 
-* [Exercise 1](exercises/Exercise1.ipynb): Set 01/10/2024, due 15/10/2024.
-* [Exercise 2](exercises/Exercise2.ipynb): Set 15/10/2024, due 29/10/2024.
+* [Exercise 1](exercises/Exercise1.ipynb): Set 01/10/2024, due 15/10/2024, Anatolii as TA.
+* [Exercise 2](exercises/Exercise2.ipynb): Set 15/10/2024, due 29/10/2024, Anatolii as TA.
+* [Exercise 3](exercises/Exercise3.ipynb): Set 29/10/2024, due 12/11/2024, Kacper as TA.
+
 
 **Note: These exercises form 50% of your final grade**
 
