@@ -24,13 +24,14 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 15/10: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
 * 22/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
 * 29/10: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
-* [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10)
-* [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
-* Introduction to QEC 3: LDPC codes
-* [Decoding 1: Running Circuits and Interpreting Outputs](https://github.com/quantumjim/qec_lectures/blob/main/lecture-1.ipynb)
-* [Decoding 2: Correcting Errors](https://github.com/quantumjim/qec_lectures/blob/main/lecture-2.ipynb)
-* [Decoding 3: Programming and Using a Matching Decoder](https://github.com/quantumjim/qec_lectures/blob/main/lecture-3.ipynb)
-* [Decoding 4: Programming HDRG Decoders](https://github.com/quantumjim/qec_lectures/blob/main/lecture-4.ipynb)
+* 5/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10)
+* 12/11: [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
+* 19/11: [Decoding 1: Running Circuits and Interpreting Outputs](https://github.com/quantumjim/qec_lectures/blob/main/lecture-1.ipynb)
+* 26/11: Guest lecture
+* 03/12: [Decoding 2: Correcting Errors](https://github.com/quantumjim/qec_lectures/blob/main/lecture-2.ipynb)
+* 10/12: [Decoding 3: Programming and Using a Matching Decoder](https://github.com/quantumjim/qec_lectures/blob/main/lecture-3.ipynb)
+* 17/12: [Decoding 4: Programming HDRG Decoders](https://github.com/quantumjim/qec_lectures/blob/main/lecture-4.ipynb)
+
 
 ## Extra Topics
 
@@ -54,6 +55,8 @@ Four sets of take-home exercises set throughout the course. There will be hints 
 * [Exercise 1](exercises/Exercise1.ipynb): Set 01/10/2024, due 15/10/2024, Anatolii as TA.
 * [Exercise 2](exercises/Exercise2.ipynb): Set 15/10/2024, due 29/10/2024, Anatolii as TA.
 * [Exercise 3](exercises/Exercise3.ipynb): Set 29/10/2024, due 12/11/2024, Kacper as TA.
+* [Exercise 4](exercises/Exercise4.ipynb): Set 12/11/2024, due 26/11/2024, Kacper as TA.
+
 
 
 **Note: These exercises form 50% of your final grade**
