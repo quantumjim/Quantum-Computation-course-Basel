@@ -26,7 +26,7 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 29/10: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
 * 5/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10)
 * 12/11: [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11) and the [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
-* 19/11: Decoded Quantum Interferometry
+* 19/11: Decoded Quantum Interferometry (based on [this talk](https://www.youtube.com/watch?v=mA4kdOPOFLM&list=PLgKuh-lKre10gQ2WmHimdr4Bqa3uE8yhX&index=3) and [this blog post](https://dabacon.org/pontiff/2024/10/29/new-quantum-algorithm-dance-dqi-edition/))
 * 26/11: Randomized Benchmarking
 * 03/12: 
 * 10/12: 
@@ -37,13 +37,13 @@ The course consists of the following set of lectures. We will aim to do slightly
 
 For some lectures there is also some extra content. We'll cover it if there is time. Otherwise, you can expect to see it in the exercises.
 
-* Lecture 1: [The Unique Properties of Qubits](extra_resources/unique-properties-qubits.ipynb)
-* Lecture 2: [Python, Qiskit and Hello Qiskit](https://youtu.be/mMJtw-vFXC4)
-* Lecture 3: [Density matrices](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/2_The_Qubit.pdf), [partial trace](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/3_Quantum_Information.pdf) and [Schmidt decomposition](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/6_Quantum_Correlations_part_1.pdf).
-* Lecture 5: [Proof that Clifford + t is universal](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/extra_resources/Lecture%206%20(2013%20version).pdf)
-* Lecture 6: [Relative Entropy and Entanglement Sharing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/7_Quantum_Correlations_part_2.pdf)
-* Lecture 7: [Quantum key distribution](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/ch-algorithms/quantum-key-distribution.ipynb)
-* Lecture 9: [Quantum noise](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/8_Quantum_Noise.pdf) and [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
+* [The Unique Properties of Qubits](extra_resources/unique-properties-qubits.ipynb)
+* [Python, Qiskit and Hello Qiskit](https://youtu.be/mMJtw-vFXC4)
+* [Density matrices](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/2_The_Qubit.pdf), [partial trace](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/3_Quantum_Information.pdf) and [Schmidt decomposition](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/6_Quantum_Correlations_part_1.pdf).
+* [Proof that Clifford + t is universal](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/extra_resources/Lecture%206%20(2013%20version).pdf)
+* [Relative Entropy and Entanglement Sharing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/7_Quantum_Correlations_part_2.pdf)
+* [Quantum key distribution](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/ch-algorithms/quantum-key-distribution.ipynb)
+* [Quantum noise](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/8_Quantum_Noise.pdf) and [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
 
 
 ## Exercises
