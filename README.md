@@ -30,7 +30,7 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 26/11: Entanglement: [Part 1](QI_Course/7_Quantum_Correlations_part_2) [Part 2](QI_Course/7_Quantum_Correlations_part_2)
 * 03/12: Benchmarking
 * 10/12: ZX Calculus
-* 17/12: Final Project brainstorming (1 hour onlyß)
+* 17/12: Final Project brainstorming (1 hour only)
 
 
 ## Extra Topics
