@@ -27,7 +27,7 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 5/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10)
 * 12/11: [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11) and the [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
 * 19/11: [Classical Coding](extra_resources/Classical%20Coding.pdf) and Decoded Quantum Interferometry (based on [this talk](https://www.youtube.com/watch?v=mA4kdOPOFLM&list=PLgKuh-lKre10gQ2WmHimdr4Bqa3uE8yhX&index=3) and [this blog post](https://dabacon.org/pontiff/2024/10/29/new-quantum-algorithm-dance-dqi-edition/))
-* 26/11: Entanglement: [Part 1](QI_Course/7_Quantum_Correlations_part_2) [Part 2](QI_Course/7_Quantum_Correlations_part_2)
+* 26/11: Entanglement: [Part 1](QI_course/6_Quantum_Correlations_part_1.pdf) [Part 2](QI_course/7_Quantum_Correlations_part_2.pdf)
 * 03/12: Benchmarking
 * 10/12: ZX Calculus
 * 17/12: Final Project brainstorming (1 hour only)
