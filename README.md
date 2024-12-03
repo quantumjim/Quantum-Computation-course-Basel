@@ -28,7 +28,7 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 12/11: [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11) and the [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
 * 19/11: [Classical Coding](extra_resources/Classical%20Coding.pdf) and Decoded Quantum Interferometry (based on [this talk](https://www.youtube.com/watch?v=mA4kdOPOFLM&list=PLgKuh-lKre10gQ2WmHimdr4Bqa3uE8yhX&index=3) and [this blog post](https://dabacon.org/pontiff/2024/10/29/new-quantum-algorithm-dance-dqi-edition/))
 * 26/11: Entanglement: [Part 1](QI_course/6_Quantum_Correlations_part_1.pdf) [Part 2](QI_course/7_Quantum_Correlations_part_2.pdf)
-* 03/12: Benchmarking
+* 03/12: ZX Calculus: [Part 1](extra_resources/ZX.pdf) [Part 2](extra_resources/Wootton-QNLP2023.pdf)
 * 10/12: ZX Calculus
 * 17/12: Final Project brainstorming (1 hour only)
 
@@ -69,9 +69,9 @@ As in previous years, we'll have a final project instead of a standard exam. The
 
 ### Important dates
 
-You have until *tbd* January to hand-in your final projects (to me, by email). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
+You have until 13th January to hand-in your final projects (to me, by email). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
 
-You have until *tbd* December to email me and ask for feedback on project ideas, and to give guidelines for what would be expected for them.
+You have until 20th December to email me and ask for feedback on project ideas, and to give guidelines for what would be expected for them. We will also use the lecture on 17th December as a brainstorming session.
 
 ### Project ideas
 
