@@ -69,9 +69,9 @@ As in previous years, we'll have a final project instead of a standard exam. The
 
 ### Important dates
 
-You have until *tbd* January to hand-in your final projects (to me, by email). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
+You have until 13th January to hand-in your final projects (to me, by email). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
 
-You have until *tbd* December to email me and ask for feedback on project ideas, and to give guidelines for what would be expected for them.
+You have until 20th December to email me and ask for feedback on project ideas, and to give guidelines for what would be expected for them. We will also use the lecture on 17th December as a brainstorming session.
 
 ### Project ideas
 
