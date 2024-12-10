@@ -29,7 +29,7 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 19/11: [Classical Coding](extra_resources/Classical%20Coding.pdf) and Decoded Quantum Interferometry (based on [this talk](https://www.youtube.com/watch?v=mA4kdOPOFLM&list=PLgKuh-lKre10gQ2WmHimdr4Bqa3uE8yhX&index=3) and [this blog post](https://dabacon.org/pontiff/2024/10/29/new-quantum-algorithm-dance-dqi-edition/))
 * 26/11: Entanglement: [Part 1](QI_Course/7_Quantum_Correlations_part_2) [Part 2](QI_Course/7_Quantum_Correlations_part_2)
 * 03/12: ZX Calculus: [Part 1](extra_resources/ZX.pdf) [Part 2](extra_resources/Wootton-QNLP2023.pdf)
-* 10/12: Benchmarking
+* 10/12: Benchmarking: [Part 1](extra_resources/Benchmarking-with-QEC-1.pdf) [Part 2](extra_resources/Benchmarking-with-QEC-2.pdf) [Part 3](extra_resources/Benchmarking-with-QA.pdf)
 * 17/12: Final Project brainstorming (1 hour only)
 
 
