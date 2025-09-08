@@ -1,6 +1,6 @@
 # Quantum Computation and Error Correction
 
-This is a [course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/de/semester-planung?id=286075), given by Dr James Wootton of Moth Quantum.
+This is a [course at the University of Basel](https://vorlesungsverzeichnis.unibas.ch/de/semester-planung?id=286075), given by Dr James Wootton, Pierre Fromholz and Daniel Bultrini of Moth Quantum.
 
 ## Course Content
 
@@ -16,21 +16,21 @@ The course will be based on the [Qiskit textbook](https://github.com/NCCR-SPIN/q
 
 The course consists of the following set of lectures. We will aim to do slightly more than one per week. All lectures will be given in person (14:15, [Seminarzimmer 4.1](https://vorlesungsverzeichnis.unibas.ch/ajax/room.cfm?id=8210)), but [video versions](https://www.youtube.com/playlist?list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-) of many lectures are available also. For those, links to the pertinent parts of the Qiskit textbook can be found in the video descriptions. **Let me know if any link doesn't work!**
 
-* 10/09: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc)
-* 17/09: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
-* 24/09: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
-* 01/10: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
-* 08/10: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek)
-* 15/10: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
-* 22/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
-* 29/10: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
-* 5/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10)
-* 12/11: [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11) and the [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
-* 19/11: [Classical Coding](extra_resources/Classical%20Coding.pdf) and Decoded Quantum Interferometry (based on [this talk](https://www.youtube.com/watch?v=mA4kdOPOFLM&list=PLgKuh-lKre10gQ2WmHimdr4Bqa3uE8yhX&index=3) and [this blog post](https://dabacon.org/pontiff/2024/10/29/new-quantum-algorithm-dance-dqi-edition/))
-* 26/11: Entanglement: [Part 1](QI_course/6_Quantum_Correlations_part_1.pdf) [Part 2](QI_course/7_Quantum_Correlations_part_2.pdf)
-* 03/12: ZX Calculus: [Part 1](extra_resources/ZX.pdf) [Part 2](extra_resources/Wootton-QNLP2023.pdf)
-* 10/12: Benchmarking: [Part 1](extra_resources/Benchmarking-with-QEC-1.pdf) [Part 2](extra_resources/Benchmarking-with-QEC-2a.pdf) [Part 3](extra_resources/Benchmarking-with-QA.pdf)
-* 17/12: Final Project brainstorming (1 hour only)
+* 16/09: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc)
+* 23/09: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
+* 30/09: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
+* 7/10: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
+* 14/10: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek)
+* 21/10: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
+* 28/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
+* 4/11: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
+* 11/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10) and [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
+* 18/11: TBD
+* 25/11: TBD
+* 26/11: TBD
+* 02/12: TBD
+* 9/12: TBD
+* 16/12: Final Project brainstorming (1 hour only)
 
 
 ## Extra Topics
@@ -52,26 +52,27 @@ For some lectures there is also some extra content. We'll cover it if there is t
 
 Four sets of take-home exercises set throughout the course. There will be hints sessions at 16:15 on the dates that these are set. Solutions will be presented after the exercises have been graded.
 
-* [Exercise 1](exercises/Exercise1.ipynb): Set 01/10/2024, due 15/10/2024, Anatolii as TA.
-* [Exercise 2](exercises/Exercise2.ipynb): Set 15/10/2024, due 29/10/2024, Anatolii as TA.
-* [Exercise 3](exercises/Exercise3.ipynb): Set 29/10/2024, due 12/11/2024, Kacper as TA.
-* [Exercise 4](exercises/Exercise4.ipynb): Set 12/11/2024, due 26/11/2024, Kacper as TA.
+* Exercise 1: Set 01/10/2024, due 15/10/2024, TBD as TA.
+* Exercise 2: Set 15/10/2024, due 29/10/2024, TBD as TA.
+* Exercise 3: Set 29/10/2024, due 12/11/2024, TBD as TA.
+* Exercise 4:  Set 12/11/2024, due 26/11/2024, TBD as TA.
 
 
 
-**Note: These exercises form 50% of your final grade**
+**Note: These exercises form the final grade for the [2 practical credit points](https://vorlesungsverzeichnis.unibas.ch/en/course-directory?id=297199)**
 
 ## Final Project
 
 As in previous years, we'll have a final project instead of a standard exam. The main aim of this is for you to demonstrate understanding of the topics in the course. The format is fairly free to allow you to do this in a way that suits you best. Collaboration will be fine. But everyone needs something unique to submit.
 
-**Note: This project forms 50% of your final grade**
+**Note: These project forms the final grade for the [4 lecture credit points](https://vorlesungsverzeichnis.unibas.ch/en/course-directory?id=294582)**
+
 
 ### Important dates
 
-You have until 13th January to hand-in your final projects (to me, by email). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
+You have until TDB January to hand-in your final projects (to me, by email). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
 
-You have until 20th December to email me and ask for feedback on project ideas, and to give guidelines for what would be expected for them. We will also use the lecture on 17th December as a brainstorming session.
+You have until TBD December to email me and ask for feedback on project ideas, and to give guidelines for what would be expected for them. We will also use the lecture on 16th December as a brainstorming session.
 
 ### Project ideas
 
