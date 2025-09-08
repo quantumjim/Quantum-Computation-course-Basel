@@ -19,17 +19,17 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 16/09: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc)
 * 23/09: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
 * 30/09: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
-* 7/10: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
+* 07/10: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
 * 14/10: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek)
 * 21/10: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
 * 28/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
-* 4/11: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
+* 04/11: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
 * 11/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10) and [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
 * 18/11: TBD
 * 25/11: TBD
 * 26/11: TBD
 * 02/12: TBD
-* 9/12: TBD
+* 09/12: TBD
 * 16/12: Final Project brainstorming (1 hour only)
 
 
