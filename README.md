@@ -52,10 +52,10 @@ For some lectures there is also some extra content. We'll cover it if there is t
 
 Four sets of take-home exercises set throughout the course. There will be hints sessions at 16:15 on the dates that these are set. Solutions will be presented after the exercises have been graded.
 
-* Exercise 1: Set 01/10/2024, due 15/10/2024, TBD as TA.
-* Exercise 2: Set 15/10/2024, due 29/10/2024, TBD as TA.
-* Exercise 3: Set 29/10/2024, due 12/11/2024, TBD as TA.
-* Exercise 4:  Set 12/11/2024, due 26/11/2024, TBD as TA.
+* Exercise 1: Set 30/09, due 15/10/2024, TBD as TA.
+* Exercise 2: Set 21/10, due 29/10/2024, TBD as TA.
+* Exercise 3: Set 11/11, due 12/11/2024, TBD as TA.
+* Exercise 4: Set 26/11, due 26/11/2024, TBD as TA.
 
 
 
