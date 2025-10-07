@@ -14,7 +14,7 @@ The course will be based on the [Qiskit textbook](https://github.com/NCCR-SPIN/q
 
 ## Lectures
 
-The course consists of the following set of lectures. We will aim to do slightly more than one per week. All lectures will be given in person (14:15, [Seminarzimmer 4.1](https://vorlesungsverzeichnis.unibas.ch/ajax/room.cfm?id=8210)), but [video versions](https://www.youtube.com/playlist?list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-) of many lectures are available also. For those, links to the pertinent parts of the Qiskit textbook can be found in the video descriptions. **Let me know if any link doesn't work!**
+The course consists of the following set of lectures. We will aim to do slightly more than one per week. All lectures will be given in person (14:15, Physik, Alter Hörsaal 2, 1.22), but [video versions](https://www.youtube.com/playlist?list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-) of many lectures are available also. For those, links to the pertinent parts of the Qiskit textbook can be found in the video descriptions. **Let me know if any link doesn't work!**
 
 * 16/09: [The Atoms of Computation and What is Quantum](https://youtu.be/myzcjukQUFc)
 * 23/09: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
