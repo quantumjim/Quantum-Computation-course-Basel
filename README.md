@@ -57,14 +57,14 @@ Four sets of take-home exercises set throughout the course. There will be hints 
 * Exercise 3: Set 11/11, due 25/11.
 * Exercise 4: Set 02/12, due 16/12.
 
+**Note: These exercises form the final grade for the [2 practical credit points](https://vorlesungsverzeichnis.unibas.ch/en/course-directory?id=297199)**
+
 ### Practice Exercises
 
 We will also have practice exercises that are not handed in and not graded. The TA will take you through hints and solutions.
 
 * [Practice Exercises 1](practice/Practice1.ipynb)
 
-
-**Note: These exercises form the final grade for the [2 practical credit points](https://vorlesungsverzeichnis.unibas.ch/en/course-directory?id=297199)**
 
 ## Final Project
 
