@@ -63,7 +63,7 @@ Four sets of take-home exercises set throughout the course. There will be hints 
 
 We will also have practice exercises that are not handed in and not graded. The TA will take you through hints and solutions.
 
-* [Practice Exercises 1](practice/Practice1.ipynb)
+* [Practice Exercises 1](practice/Practice1.ipynb): set 7/11, due 14/11.
 
 
 ## Final Project
