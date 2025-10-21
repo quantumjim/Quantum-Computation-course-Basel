@@ -20,16 +20,16 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 23/09: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
 * 30/09: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
 * 07/10: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
-* 14/10: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek)
-* 21/10: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
-* 28/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M)
-* 04/11: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4)
-* 11/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10) and [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
-* 18/11: TBD
-* 25/11: TBD
-* 26/11: TBD
-* 02/12: TBD
-* 09/12: TBD
+* 14/10: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek) [Notes available on ADAM]
+* 21/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M) [Notes available on ADAM]
+* 28/10: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
+* 04/11: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4) [Notes available on ADAM]
+* 11/11: Notion of entanglement theory: checking that what we are doing is indeed quantum [Notes soon available on ADAM, application notebooks soon available]
+* 18/11: The main obstacle to fault-tolance: noise in Quantum computers [Notes available on ADAM]
+* 25/11: Mitigating noise: being right at a cost [May change]
+* 26/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10) and [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
+* 02/12: Advanced QEC [May change]
+* 09/12: NISQ-compatible algorithms [May change]
 * 16/12: Final Project brainstorming (1 hour only)
 
 
@@ -64,6 +64,7 @@ Four sets of take-home exercises set throughout the course. There will be hints 
 We will also have practice exercises that are not handed in and not graded. The TA will take you through hints and solutions.
 
 * [Practice Exercises 1](practice/Practice1.ipynb): set 7/11, solutions 14/11.
+* [Practice Exercises 2](practice/PracticeExercise2): set 14/11, solutions 21/10.
 
 
 ## Final Project
