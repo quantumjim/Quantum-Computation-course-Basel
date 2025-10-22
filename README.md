@@ -53,7 +53,7 @@ For some lectures there is also some extra content. We'll cover it if there is t
 Four sets of take-home exercises set throughout the course. There will be hints sessions at 16:15 on the dates that these are set. Solutions will be presented after the exercises have been graded.
 
 * [Exercise 1](exercises/Exercise1.ipynb): Set 30/09, due 14/10.
-* Exercise 2: Set 21/10, due 4/11.
+* [Exercise 2](exercises/ex2_graded.pdf): Set 21/10, due 4/11.
 * Exercise 3: Set 11/11, due 25/11.
 * Exercise 4: Set 02/12, due 16/12.
 
