@@ -24,7 +24,7 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 21/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M) [Notes available on ADAM]
 * 28/10: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
 * 04/11: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4) [Notes available on ADAM]
-* 11/11: Notion of entanglement theory: checking that what we are doing is indeed quantum [Notes soon available on ADAM, application notebooks soon available]
+* 11/11: Notion of entanglement theory: checking that what we are doing is indeed quantum [Notes available on ADAM], [application notebooks available](https://github.com/quantumjim/Quantum-Computation-course-Basel/tree/main/extra_resources/Entanglement_extra)
 * 18/11: The main obstacle to fault-tolance: noise in Quantum computers [Notes available on ADAM]
 * 25/11: Mitigating noise: being right at a cost [May change]
 * 26/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10) and [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
@@ -39,11 +39,11 @@ For some lectures there is also some extra content. We'll cover it if there is t
 
 * [The Unique Properties of Qubits](extra_resources/unique-properties-qubits.ipynb)
 * [Python, Qiskit and Hello Qiskit](https://youtu.be/mMJtw-vFXC4)
-* [Density matrices](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/2_The_Qubit.pdf), [partial trace](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/3_Quantum_Information.pdf) and [Schmidt decomposition](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/6_Quantum_Correlations_part_1.pdf).
+* [Density matrices](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/2_The_Qubit.pdf), [partial trace](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/3_Quantum_Information.pdf) and [Schmidt decomposition](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/6_Quantum_Correlations_part_1.pdf). (Largely included in the "Notion of Entanglement" lecture)
 * [Proof that Clifford + t is universal](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/extra_resources/Lecture%206%20(2013%20version).pdf)
-* [Relative Entropy and Entanglement Sharing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/7_Quantum_Correlations_part_2.pdf)
+* [Relative Entropy and Entanglement Sharing](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/7_Quantum_Correlations_part_2.pdf) (Largely included in the "Notion of Entanglement" lecture)
 * [Quantum key distribution](https://github.com/NCCR-SPIN/qiskit-textbook/blob/main/content/ch-algorithms/quantum-key-distribution.ipynb)
-* [Quantum noise](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/8_Quantum_Noise.pdf) and [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
+* [Quantum noise](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/8_Quantum_Noise.pdf) (Largely included in the "noise in Quantum Computer" lecture) and [Stabilizer formalism](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/main/QI_course/9_Stabilizer_Formalism.pdf)
 
 
 ## Exercises
