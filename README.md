@@ -27,8 +27,7 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 11/11: Notion of entanglement theory: checking that what we are doing is indeed quantum [Notes available on ADAM], [application notebooks available](https://github.com/quantumjim/Quantum-Computation-course-Basel/tree/main/extra_resources/Entanglement_extra)
 * 18/11: The main obstacle to fault-tolance: noise in Quantum computers [Notes available on ADAM]
 * 25/11: Mitigating noise: being right at a cost [May change]
-* 26/11: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10) and [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
-* 02/12: Advanced QEC [May change]
+* 02/12: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10) and [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
 * 09/12: NISQ-compatible algorithms [May change]
 * 16/12: Final Project brainstorming (1 hour only)
 
