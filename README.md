@@ -65,6 +65,7 @@ We will also have practice exercises that are not handed in and not graded. The 
 * [Practice Exercises 1](practice/Practice1.ipynb): set 7/10, solutions 14/10.
 * [Practice Exercises 2](practice/PracticeExercise2): set 14/10, solutions 21/10.
 * [Practice Exercises 3](practice/PracticeExercise3): set 28/10, solutions 04/10.
+* [Practice Exercises 4](practice/PracticeExercise4): set 04/11, solutions 11/11.
 
 
 ## Final Project
