@@ -49,7 +49,7 @@ For some lectures there is also some extra content. We'll cover it if there is t
 
 ### Take-Home Exercises
 
-Four sets of take-home exercises set throughout the course. There will be hints sessions at 16:15 on the dates that these are set. Solutions will be presented after the exercises have been graded.
+Four sets of take-home exercises set throughout the course. There will be hints sessions at 16:15 on the dates that these are set. Solutions will be presented after the exercises have been graded. The grades from the take-home exercices determine the grade of the "Exercise" module.
 
 * [Exercise 1](exercises/Exercise1.ipynb): Set 30/09, due 14/10.
 * [Exercise 2](exercises/ex2_graded.pdf): Set 21/10, due 4/11.
@@ -70,7 +70,12 @@ We will also have practice exercises that are not handed in and not graded. The 
 
 ## Final Project
 
-As in previous years, we'll have a final project instead of a standard exam. The main aim of this is for you to demonstrate understanding of the topics in the course. The format is fairly free to allow you to do this in a way that suits you best. Collaboration will be fine. But everyone needs something unique to submit.
+The grade of the QC lecture is exclusively determined by your grade of the final project. The main aim of such a project is for you to demonstrate understanding of the topics in the course. The format is fairly free to allow you to do this in a way that suits you best. Collaboration is allowed, and encouraged. But everyone needs something unique to submit. There will be an oral prosentation for each project. You may present together or separated (we would prefer together). If together, everybody must talk about the same amount of time. 
+
+As you submit your individual report, you must also choose a grading scheme with which you want to be evaluated with. You may only choose one grading scheme per project (if you work in group). We advise that first you choose a project, then you explore it a bit, and only then should you choose a grading scheme. This choice will orient what part of the project you will focus on most when going in depth. The three grading scheme are:
+ * [Balanced](Project_grading_schemes/Balanced_grading_scheme.pdf): what you would most expect from the grading of a project for a bachelor/master lecture.
+ * [Research](Project_grading_schemes/Research_grading_scheme.pdf): a scheme focused on your effort in researching a topic and coming with an original idea with original results, even if those are negative.
+ * [Industry](Project_grading_schemes/Industry_grading_scheme.pdf): a scheme focused on your abilities to come up with a product (or at least the prototype of one) to put directly in the hands of consumers. 
 
 **Note: These project forms the final grade for the [4 lecture credit points](https://vorlesungsverzeichnis.unibas.ch/en/course-directory?id=294582)**
 
