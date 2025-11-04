@@ -20,12 +20,12 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 23/09: [Representing Single Qubit States and Gates](https://www.youtube.com/watch?v=GdRt8vO9xY8)
 * 30/09: [Multi qubit States and Circuit Identities](https://www.youtube.com/watch?v=pzkeypXaQ-Q)
 * 07/10: [Fun with matrices](https://www.youtube.com/watch?v=e7NTozZMRqk)
-* 14/10: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek) [Notes available on ADAM]
-* 21/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M) [Notes available on ADAM]
+* 14/10: [Circuits and Universality](https://www.youtube.com/watch?v=E53mfGrV8ek) - [Notes available here](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/270ad12f3de4016c312775daa7b6cb0810fbacfa/Extra%20materials/Universality_notes.pdf)
+* 21/10: [Basic Algorithms and Protocols](https://www.youtube.com/watch?v=fNOEVXQKv9M) - [Notes available here](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/270ad12f3de4016c312775daa7b6cb0810fbacfa/Extra%20materials/Basic%20algorithms.pdf)
 * 28/10: [From the Fourier Transform to Shor's Algorithm](https://www.youtube.com/watch?v=WqgNu8ZziPQ)
-* 04/11: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4) [Notes available on ADAM]
-* 11/11: Notion of entanglement theory: checking that what we are doing is indeed quantum [Notes available on ADAM], [application notebooks available](https://github.com/quantumjim/Quantum-Computation-course-Basel/tree/main/extra_resources/Entanglement_extra)
-* 18/11: The main obstacle to fault-tolance: noise in Quantum computers [Notes available on ADAM]
+* 04/11: [Grover's Algorithm and why we can't yet run it](https://www.youtube.com/watch?v=YfFp3K4cAF4) - [Notes available here](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/270ad12f3de4016c312775daa7b6cb0810fbacfa/Extra%20materials/Grover.pdf)
+* 11/11: Notion of entanglement theory: checking that what we are doing is indeed quantum - [Notes available here](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/270ad12f3de4016c312775daa7b6cb0810fbacfa/Extra%20materials/Entanglement%20theory.pdf), [application notebooks available](https://github.com/quantumjim/Quantum-Computation-course-Basel/tree/main/extra_resources/Entanglement_extra)
+* 18/11: The main obstacle to fault-tolance: noise in Quantum computers - [Notes available here](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/270ad12f3de4016c312775daa7b6cb0810fbacfa/Extra%20materials/Noise%20in%20QC.pdf)
 * 25/11: Mitigating noise: being right at a cost [May change]
 * 02/12: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10) and [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
 * 09/12: NISQ-compatible algorithms [May change]
