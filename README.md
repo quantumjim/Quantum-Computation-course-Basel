@@ -28,7 +28,7 @@ The course consists of the following set of lectures. We will aim to do slightly
 * 18/11: [The main obstacle to fault-tolance: noise in Quantum computers](https://youtu.be/0XCxbAD-W0k) - [Notes available here](https://github.com/quantumjim/Quantum-Computation-course-Basel/blob/270ad12f3de4016c312775daa7b6cb0810fbacfa/Extra%20materials/Noise%20in%20QC.pdf)
 * 25/11: [Mitigating noise: being right at a cost](https://youtu.be/IiFP8j8eqVc)
 * 02/12: [Introduction to QEC 1: The repetition code](https://www.youtube.com/watch?v=AuDfq7j_W7E&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=10) and [Introduction to QEC 2: The surface code](https://www.youtube.com/watch?v=IdZkxX-Qank&list=PLaU1vYImkPDxyqJ6zHAs8W92fYKsfXsV-&index=11)
-* 09/12: NISQ-compatible algorithms [May change]
+* 09/12: [NISQ-compatible algorithms](https://youtu.be/YyXc5_n8zSg)
 * 16/12: Final Project brainstorming (1 hour only)
 
 
