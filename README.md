@@ -82,9 +82,9 @@ As you submit your individual report, you must also choose a grading scheme with
 
 ### Important dates
 
-You have until the 9th of January to hand-in your final projects (to me, by email). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
+You have until the 19th of December to email me and ask for feedback on project ideas, and to give guidelines for what would be expected for them. We will also use the lecture on 16th December as a brainstorming session. By the 22nd of December, each team must send us an email with their definitive team composition, as well as the title of their project, and optionally provide an abstract.
 
-You have until the 19th of December to email me and ask for feedback on project ideas, and to give guidelines for what would be expected for them. We will also use the lecture on 16th December as a brainstorming session.
+You have until the 9th of January to hand-in your final projects (to me, by email). You are expected to put a similar amount of time and effort in to the final project as you would put into two sets of exercises.
 
 The oral presentation would occur the Tuesday 13th, 20th, and 27th of January.
 
