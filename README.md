@@ -5,21 +5,21 @@
 ### 📚 Lecture Series Details
 
 * **Credits/Level:** 4 Credits
-* **Instructors:** Dr. James Wootton, Prof. Pierre Fromholz, and Dr. Daniel Bultrini of [Moth Quantum](https://mothquantum.com/).
+* **Instructors:** Dr. James Wootton, Dr. Pierre Fromholz, and Dr. Daniel Bultrini of [Moth Quantum](https://mothquantum.com/).
 
 **Key Dates & Topics:**
 
 | Date | Instructor | Topic |
 | :--- | :--- | :--- |
 | September 15 | TBD | Introduction to Quantum Computation |
-| September 22 | Prof. Fromholz | The Qubit and Quantum Mechanics Fundamentals |
+| September 22 | Dr. Fromholz | The Qubit and Quantum Mechanics Fundamentals |
 | September 29 | Dr. Bultrini | Mathematics for Quantum I (Linear Algebra Review) |
 | October 6 | Dr. Wootton | Mathematics for Quantum II (Advanced Topics) |
 | October 13 | Dr. Bultrini | Multiqubits, Universality, and Quantum Circuits I |
-| October 20 | Prof. Fromholz | Multiqubits, Universality, and Quantum Circuits II |
+| October 20 | Dr. Fromholz | Multiqubits, Universality, and Quantum Circuits II |
 | October 27 | Dr. Bultrini | Algorithms I: Fourier Transform (FT) |
-| November 3 | Prof. Fromholz | Algorithms II: Phase Estimation (PE) |
-| November 10 | Prof. Fromholz | Algorithms III: Period Finding and Order-Finding |
+| November 3 | Dr. Fromholz | Algorithms II: Phase Estimation (PE) |
+| November 10 | Dr. Fromholz | Algorithms III: Period Finding and Order-Finding |
 | November 17 | Dr. Bultrini | Noise, Decoherence, and Error Mitigation |
 | November 24 | Dr. Wootton | Quantum Error Correction I (Foundations) |
 | December 1 | Dr. Wootton | Quantum Error Correction II (Codes and Theory) |
@@ -39,19 +39,19 @@
 
 | Date | Topic | Instructor
 | :--- | :--- | :--- |
-| September 15 | Basics (No Submission Required) | TBA |
-| September 22 | Introduction to Quantum Circuits | TBA |
-| September 29 | The Qubit and Quantum Mechanics Fundamentals | TBA |
-| October 6 | Mathematics for Quantum I | TBA |
-| October 13 | Mathematics for Quantum II | TBA |
-| October 20 | Multiqubits, Universality, and Circuits I | TBA |
-| October 27 | Multiqubits, Universality, and Circuits II | TBA |
-| November 3 | Algorithms I: Fourier Transform (FT) | TBA |
-| November 10 | Algorithms II: Phase Estimation (PE) | TBA |
-| November 17 | Algorithms III: Period Finding/Order-Finding | TBA |
-| November 24 | Noise and Error Mitigation | TBA |
-| December 1 | Quantum Error Correction I |  TBA |
-| December 8 | Quantum Error Correction II |  TBA |
+| September 15 | Basics (No Submission Required) | Haripriya Pettugani |
+| September 22 | Introduction to Quantum Circuits | Haripriya Pettugani |
+| September 29 | The Qubit and Quantum Mechanics Fundamentals | Haripriya Pettugani |
+| October 6 | Mathematics for Quantum I | Viktoriia Pinchenkova |
+| October 13 | Mathematics for Quantum II | Viktoriia Pinchenkova |
+| October 20 | Multiqubits, Universality, and Circuits I | Sarthak Girdhar |
+| October 27 | Multiqubits, Universality, and Circuits II | Sarthak Girdhar |
+| November 3 | Algorithms I: Fourier Transform (FT) | Dr. Zoe McIntyre |
+| November 10 | Algorithms II: Phase Estimation (PE) | Dr. Zoe McIntyre |
+| November 17 | Algorithms III: Period Finding/Order-Finding | Shahan Hawatian |
+| November 24 | Noise and Error Mitigation | Shahan Hawatian |
+| December 1 | Quantum Error Correction I |  Xinru Tang |
+| December 8 | Quantum Error Correction II |  Xinru Tang |
 
 **Submission Details:**
 * Exercise sheets are provided in advance (Please see the `Exercises` folder).
