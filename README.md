@@ -75,6 +75,7 @@ There is no traditional "exam" for the exercises; instead, evaluation focuses on
 **Passing Criteria ("Good Effort"):**
 * The TAs will evaluate if the student demonstrated a "good effort" for at least 80% of the questions on the sheet.
 * **Crucially:** Passing requires demonstrating *effort*, not necessarily correct answers. It is possible to pass without answering any question correctly, and vice versa.
+* There is no requirement for attendance, but it is strongly advised that students attend the lectures and excercise sessions. 
 
 **Final Grade:**
 * To successfully complete the exercises component, a student must achieve a passing grade for 70% or more of the sheets (i.e., passing at least 9 out of 12 sheets).
