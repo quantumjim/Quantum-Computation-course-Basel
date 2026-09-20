@@ -33,21 +33,21 @@
 
 * **Credits/Level:** 2 Credits
 * **Supervision:** Supervised by the main lecture group.
-* **Teaching Assistants (TAs):** Viktoriia Pinchenkova, Sarthak Sarthak, Xinru Tang, Zoé McIntyre, [Hari Priya Pettugani](haripriya.pettugani@unibas.ch), Shahan Hawatian.
+* **Teaching Assistants (TAs):** Viktoriia Pinchenkova, Sarthak Sarthak, Xinru Tang, [Zoé McIntyre](mailto:zoe.mcintyre@unibas.ch), [Hari Priya Pettugani](mailto:haripriya.pettugani@unibas.ch), Shahan Hawatian.
 
 **Key Dates & Topics:**
 
 | Date | Topic | Instructor
 | :--- | :--- | :--- |
-| September 15 | Basics (No Submission Required) | [Haripriya Pettugani](haripriya.pettugani@unibas.ch) |
-| September 22 | Introduction to Quantum Circuits | [Haripriya Pettugani](haripriya.pettugani@unibas.ch) |
-| September 29 | The Qubit and Quantum Mechanics Fundamentals | [Haripriya Pettugani](haripriya.pettugani@unibas.ch) |
+| September 15 | Basics (No Submission Required) | [Haripriya Pettugani](mailto:haripriya.pettugani@unibas.ch) |
+| September 22 | Introduction to Quantum Circuits | [Haripriya Pettugani](mailto:haripriya.pettugani@unibas.ch) |
+| September 29 | The Qubit and Quantum Mechanics Fundamentals | [Haripriya Pettugani](mailto:haripriya.pettugani@unibas.ch) |
 | October 6 | Mathematics for Quantum I | Viktoriia Pinchenkova |
 | October 13 | Mathematics for Quantum II | Viktoriia Pinchenkova |
 | October 20 | Multiqubits, Universality, and Circuits I | Sarthak Girdhar |
 | October 27 | Multiqubits, Universality, and Circuits II | Sarthak Girdhar |
-| November 3 | Algorithms I: Fourier Transform (FT) | Dr. Zoe McIntyre |
-| November 10 | Algorithms II: Phase Estimation (PE) | Dr. Zoe McIntyre |
+| November 3 | Algorithms I: Fourier Transform (FT) | Dr. [Zoé McIntyre](mailto:zoe.mcintyre@unibas.ch) |
+| November 10 | Algorithms II: Phase Estimation (PE) | Dr. [Zoé McIntyre](mailto:zoe.mcintyre@unibas.ch) |
 | November 17 | Algorithms III: Period Finding/Order-Finding | Shahan Hawatian |
 | November 24 | Noise and Error Mitigation | Shahan Hawatian |
 | December 1 | Quantum Error Correction I |  Xinru Tang |
@@ -87,7 +87,7 @@ There is no traditional "exam" for the exercises; instead, evaluation focuses on
 ### ❓ Student Support and Questions
 
 * **Lecture Material/Exam:** For questions regarding lecture content, please address them first to the corresponding lecturer. If unable to reach the assigned instructor, please contact Prof. Pierre Fromholz (`pierre.fromholz AT unibas.ch`).
-* **Exercises/Grading:** For all questions concerning assignments and grading processes, please address them first to the designated TA for that week. If unable to reach the specific TA, please contact Zoé McIntyre (`zoe.mcintyre AT unibas.ch`).
+* **Exercises/Grading:** For all questions concerning assignments and grading processes, please address them first to the designated TA for that week. If unable to reach the specific TA, please contact [Zoé McIntyre](mailto:zoe.mcintyre@unibas.ch).
 
 ---
 ***
