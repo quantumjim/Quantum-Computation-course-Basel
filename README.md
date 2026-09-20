@@ -11,7 +11,7 @@
 
 | Date | Instructor | Topic |
 | :--- | :--- | :--- |
-| September 15 | TBD | Introduction to Quantum Computation |
+| September 15 | Dr. Merlin Incerti-Medici | Introduction to Quantum Computation |
 | September 22 | Dr. Fromholz | The Qubit and Quantum Mechanics Fundamentals |
 | September 29 | Dr. Bultrini | Mathematics for Quantum I (Linear Algebra Review) |
 | October 6 | Dr. Wootton | Mathematics for Quantum II (Advanced Topics) |
@@ -33,15 +33,15 @@
 
 * **Credits/Level:** 2 Credits
 * **Supervision:** Supervised by the main lecture group.
-* **Teaching Assistants (TAs):** Viktoriia Pinchenkova, Sarthak Sarthak, Xinru Tang, Zoé McIntyre, Hari Priya Pettugani, Zoltan György, Shahan Hawatian.
+* **Teaching Assistants (TAs):** Viktoriia Pinchenkova, Sarthak Sarthak, Xinru Tang, Zoé McIntyre, [Hari Priya Pettugani](haripriya.pettugani@unibas.ch), Shahan Hawatian.
 
 **Key Dates & Topics:**
 
 | Date | Topic | Instructor
 | :--- | :--- | :--- |
-| September 15 | Basics (No Submission Required) | Haripriya Pettugani |
-| September 22 | Introduction to Quantum Circuits | Haripriya Pettugani |
-| September 29 | The Qubit and Quantum Mechanics Fundamentals | Haripriya Pettugani |
+| September 15 | Basics (No Submission Required) | [Haripriya Pettugani](haripriya.pettugani@unibas.ch) |
+| September 22 | Introduction to Quantum Circuits | [Haripriya Pettugani](haripriya.pettugani@unibas.ch) |
+| September 29 | The Qubit and Quantum Mechanics Fundamentals | [Haripriya Pettugani](haripriya.pettugani@unibas.ch) |
 | October 6 | Mathematics for Quantum I | Viktoriia Pinchenkova |
 | October 13 | Mathematics for Quantum II | Viktoriia Pinchenkova |
 | October 20 | Multiqubits, Universality, and Circuits I | Sarthak Girdhar |
