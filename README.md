@@ -13,7 +13,7 @@
 | :--- | :--- | :--- |
 | September 15 | Dr. Merlin Incerti-Medici | Introduction to Quantum Computation |
 | September 22 | Dr. Fromholz | The Qubit and Quantum Mechanics Fundamentals |
-| September 29 | Dr. Bultrini | Mathematics for Quantum I (Linear Algebra Review) |
+| September 29 | Dr. Bultrini | [Mathematics for Quantum I (Linear Algebra Review)](https://qubits-basel.vercel.app/#la1-1) |
 | October 6 | Dr. Wootton | Mathematics for Quantum II (Advanced Topics) |
 | October 13 | Dr. Bultrini | Multiqubits, Universality, and Quantum Circuits I |
 | October 20 | Dr. Fromholz | Multiqubits, Universality, and Quantum Circuits II |
