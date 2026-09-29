@@ -6,6 +6,7 @@
 
 * **Credits/Level:** 4 Credits
 * **Instructors:** Dr. James Wootton, Dr. Pierre Fromholz, and Dr. Daniel Bultrini of [Moth Quantum](https://mothquantum.com/).
+* **Start time:** Lectures are listed as 14:00 in the course catalog, but per the academic quarter actually start at **14:15**.
 
 **Key Dates & Topics:**
 
