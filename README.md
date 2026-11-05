@@ -13,13 +13,13 @@
 | Date | Instructor | Topic |
 | :--- | :--- | :--- |
 | September 15 | Dr. Merlin Incerti-Medici | Introduction to Quantum Computation |
-| September 22 | Dr. Fromholz | The Qubit and Quantum Mechanics Fundamentals |
-| September 29 | Dr. Bultrini | [Mathematics for Quantum I (Linear Algebra Review)](https://qubits-basel.vercel.app/#la1-1) |
-| October 6 | Dr. Wootton | Mathematics for Quantum II (Advanced Topics) |
+| September 22 | Dr. Fromholz | [The Qubit and Quantum Mechanics Fundamentals](https://youtu.be/HtspEZ4jmh0?si=1lvGHJ_sNzJjGrbz) |
+| September 29 | Dr. Wootton | [Mathematics for Quantum I (Linear Algebra Review)](https://qubits-basel.vercel.app/#la1-1) |
+| October 6 | Dr. Bultrini | Mathematics for Quantum II (Advanced Topics) |
 | October 13 | Dr. Bultrini | Multiqubits, Universality, and Quantum Circuits I |
-| October 20 | Dr. Fromholz | Multiqubits, Universality, and Quantum Circuits II |
+| October 20 | Dr. Fromholz | [Multiqubits, Universality, and Quantum Circuits II](https://youtu.be/-R9cr2banZE?si=4P1brGTyJVkxFgu4) |
 | October 27 | Dr. Bultrini | Algorithms I: Fourier Transform (FT) |
-| November 3 | Dr. Fromholz | Algorithms II: Phase Estimation (PE) |
+| November 3 | Dr. Fromholz | [Algorithms II: Phase Estimation (PE)](https://youtu.be/mbbsK8Vz1Qs?si=0mal7htVGx2ug9Tz) |
 | November 10 | Dr. Fromholz | Algorithms III: Period Finding and Order-Finding |
 | November 17 | Dr. Bultrini | Noise, Decoherence, and Error Mitigation |
 | November 24 | Dr. Wootton | Quantum Error Correction I (Foundations) |
