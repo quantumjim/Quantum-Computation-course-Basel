@@ -22,7 +22,7 @@
 | November 3 | Dr. Fromholz | [Algorithms II: Phase Estimation (PE)](https://youtu.be/mbbsK8Vz1Qs?si=0mal7htVGx2ug9Tz) |
 | November 10 | Dr. Fromholz | Algorithms III: Period Finding and Order-Finding |
 | November 17 | Dr. Bultrini | Noise, Decoherence, and Error Mitigation |
-| November 24 | Dr. Wootton | Quantum Error Correction I (Foundations) |
+| November 24 | Dr. Wootton | [Quantum Error Correction I (Repetition Code to the Shor Code and Decoding)](https://qubits-basel.vercel.app/#qec1-1) |
 | December 1 | Dr. Wootton | Quantum Error Correction II (Codes and Theory) |
 | December 8 | Dr. Wootton | Quantum Error Correction III (Advanced Codes/Protocols) |
 
